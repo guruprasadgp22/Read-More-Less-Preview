@@ -1,0 +1,28 @@
+body {
+    font-family: monospace;
+    margin: 5rem 10rem;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    min-height: 100vh;
+    background: linear-gradient(rgba(135,60,255,0.5), rgba(135,60,255,0.0) 80%), linear-gradient(-45deg, rgba(120,155,255,0.9) 25%, rgba(255,160,65,0.9) 75%);
+}
+
+#myBtn {
+    text-transform: uppercase;
+    background: honeydew;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: monospace;
+}
+
+#myBtn:hover {
+    background-color: darkgray;
+}
+
+#more {
+    display: none;
+}
