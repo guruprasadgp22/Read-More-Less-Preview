@@ -29,7 +29,7 @@ This project implements a simple "Read More/Less" functionality, enhancing user 
 
 ---
 
-##Usage
+## Usage
 
 1. Include the provided JavaScript and CSS files in your project.
 2. Use the example HTML structure to create content blocks with the "Read More/Less" functionality.
